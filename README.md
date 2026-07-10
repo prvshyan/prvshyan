@@ -1,17 +1,75 @@
-## Hello there! 👋
+# Hi, I'm Shayan 👋
 
-### About Me
-I am a Computer Science student with a passion for programming and technology. My primary focus is on Data Analysis , Data Science and Machine Learning
-### Skills
-- Languages: Python,SQL
-- Data Analysis Technologies: Microsoft Excel, PyData tools(NumPy,Pandas), Data Visualization(Tablue)
-- Machine Learning: TensorFlow (Currently Learning) , Scikit-learn (Currently Learning), Pytorch (Currently Learning)
+**Data Analyst @ TAPSI** | Computer Science Student
 
-### Learning Journey
-I am currently exploring the fascinating field of Machine Learning and expanding my knowledge in libraries and frameworks like TensorFlow and Scikit-learn.
+I'm a Data Analyst with experience in transforming large-scale operational and security data into actionable business insights. Currently, I work in the Security Department at TAPSI, supporting teams including SOS, Fraud, Verification, and Legal through analytics, dashboard development, and ad-hoc investigations.
 
-### Let's Connect!
-Feel free to reach out to me for collaborations, discussions, or if you have any interesting ideas or projects in mind. I'm always excited to learn and grow.
+I'm passionate about solving business problems with data and continuously improving my skills in analytics, data engineering, and machine learning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/shayan-alambeigi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_alambeigis6@gmail.com)
+---
+
+## 💼 What I Do
+
+- Analyze operational and security datasets
+- Build dashboards and KPI reports
+- Develop SQL-based analytical solutions
+- Investigate fraud and behavioral patterns
+- Support cross-functional teams with data-driven insights
+- Work with large-scale datasets using Apache Spark
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- SQL
+- Python
+
+### Data & Analytics
+- Apache Spark
+- Pandas
+- NumPy
+- Tableau
+- Superset
+- Metabase
+- Microsoft Excel
+
+### Databases
+- PostgreSQL
+- MongoDB
+
+### Tools
+- Git
+- Docker
+- Linux
+- Airflow
+- n8n
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Apache Airflow
+- Data Engineering
+- Deep Learning
+- AI Automation
+
+---
+
+## 📌 Interests
+
+- Data Analytics
+- Data Engineering
+- Machine Learning
+- Business Intelligence
+- Fraud Analytics
+- Security Analytics
+
+---
+
+## 📫 Connect with Me
+
+💼 LinkedIn: https://linkedin.com/in/shayan-alambeigi
+
+📧 Email: your_alambeigis6@gmail.com
